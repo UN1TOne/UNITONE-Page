@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a8fd410.css",
-    "main.js": "/static/js/main.d9ab5067.js",
+    "main.css": "/static/css/main.013ff0b3.css",
+    "main.js": "/static/js/main.f0ed9861.js",
     "static/js/446.0af02a79.chunk.js": "/static/js/446.0af02a79.chunk.js",
     "static/js/4955.a6602be2.chunk.js": "/static/js/4955.a6602be2.chunk.js",
     "static/js/7165.d23f897c.chunk.js": "/static/js/7165.d23f897c.chunk.js",
+    "static/js/1470.ac7f613b.chunk.js": "/static/js/1470.ac7f613b.chunk.js",
     "static/js/3680.85af5a26.chunk.js": "/static/js/3680.85af5a26.chunk.js",
     "static/js/4114.d7703aba.chunk.js": "/static/js/4114.d7703aba.chunk.js",
     "static/js/2875.062af6fa.chunk.js": "/static/js/2875.062af6fa.chunk.js",
@@ -75,11 +76,12 @@
     "static/media/HavokPhysics.wasm": "/static/media/HavokPhysics.5e246a10319df8547016.wasm",
     "static/media/Giants-Bold.ttf": "/static/media/Giants-Bold.ab47a794b0c0d8d68a44.ttf",
     "index.html": "/index.html",
-    "main.1a8fd410.css.map": "/static/css/main.1a8fd410.css.map",
-    "main.d9ab5067.js.map": "/static/js/main.d9ab5067.js.map",
+    "main.013ff0b3.css.map": "/static/css/main.013ff0b3.css.map",
+    "main.f0ed9861.js.map": "/static/js/main.f0ed9861.js.map",
     "446.0af02a79.chunk.js.map": "/static/js/446.0af02a79.chunk.js.map",
     "4955.a6602be2.chunk.js.map": "/static/js/4955.a6602be2.chunk.js.map",
     "7165.d23f897c.chunk.js.map": "/static/js/7165.d23f897c.chunk.js.map",
+    "1470.ac7f613b.chunk.js.map": "/static/js/1470.ac7f613b.chunk.js.map",
     "3680.85af5a26.chunk.js.map": "/static/js/3680.85af5a26.chunk.js.map",
     "4114.d7703aba.chunk.js.map": "/static/js/4114.d7703aba.chunk.js.map",
     "2875.062af6fa.chunk.js.map": "/static/js/2875.062af6fa.chunk.js.map",
@@ -146,7 +148,7 @@
     "6453.f9960675.chunk.js.map": "/static/js/6453.f9960675.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a8fd410.css",
-    "static/js/main.d9ab5067.js"
+    "static/css/main.013ff0b3.css",
+    "static/js/main.f0ed9861.js"
   ]
 }
