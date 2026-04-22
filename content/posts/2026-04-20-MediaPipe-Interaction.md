@@ -1,5 +1,5 @@
 ---
-title: Immersive Web Interaction: MediaPipe + BabylonJS
+title: Immersive Web Interaction - MediaPipe + BabylonJS
 author: "UNIT"
 date: "2026-04-20"
 excerpt: "Bridging the physical and virtual worlds by combining MediaPipe's vision capabilities with BabylonJS for off-axis head tracking and physics-based hand interactions."
