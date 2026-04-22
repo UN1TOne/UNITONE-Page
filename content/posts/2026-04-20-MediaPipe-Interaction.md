@@ -15,7 +15,7 @@ By integrating **MediaPipe** with **BabylonJS**, we can create highly immersive 
 
 [🎞 Watch the video](https://www.youtube.com/watch?v=NtgHtHV80jI)
 
-![HeadTracking](https://img.youtube.com/vi/O4CGkW1ZCMU/0.jpg)
+![HeadTracking]<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5d76ac1-7468-47cc-a92c-f2b1160b15c5" />
 
 ### 🎥 Hand Tracking 영상 (Youtube)
 
