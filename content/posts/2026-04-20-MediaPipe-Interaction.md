@@ -11,13 +11,13 @@ The web is no longer confined to mouse clicks and keyboard events.
 
 By integrating **MediaPipe** with **BabylonJS**, we can create highly immersive experiences that respond to a user's physical presence. In this post, I explore how to implement **off-axis head tracking** and **physics-driven hand interactions** to turn a standard browser window into a reactive 3D space.
 
-### 🎥 Head Tracking 영상 (Youtube)
+### 🎥 Head Tracking (Youtube)
 
 [🎞 Watch the video](https://www.youtube.com/watch?v=NtgHtHV80jI)
 
 ![Head Tracking](../../images/posts/2026-04-20-MediaPipe-Interaction/3d-space-control.gif)
 
-### 🎥 Hand Tracking 영상 (Youtube)
+### 🎥 Hand Tracking (Youtube)
 
 [🎞 Watch the video](https://www.youtube.com/watch?v=E8WcWEkYpX0)
 
