@@ -37,7 +37,7 @@ By mapping a 3D mask to the user's face landmarks, we create a visual anchor. Wh
 
 ### 🔹 Off-axis Implementation
 
-![Off-axis](../../images/posts/2025-03-16-Contributing/off-axis-camera-projection.png)
+![Off-axis](../../images/posts/2026-04-20-MediaPipe-Interaction/off-axis-camera-projection.png)
 
 Instead of rotating the camera around a center point, we translate the camera relative to the "window" (the screen). As you move left, you see more of the right side of the 3D room, creating a convincing illusion of depth and physical presence.
 
