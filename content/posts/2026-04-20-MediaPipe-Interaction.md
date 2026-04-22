@@ -15,13 +15,13 @@ By integrating **MediaPipe** with **BabylonJS**, we can create highly immersive 
 
 [🎞 Watch the video](https://www.youtube.com/watch?v=NtgHtHV80jI)
 
-![HeadTracking]<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5d76ac1-7468-47cc-a92c-f2b1160b15c5" />
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5d76ac1-7468-47cc-a92c-f2b1160b15c5" />
 
 ### 🎥 Hand Tracking 영상 (Youtube)
 
 [🎞 Watch the video](https://www.youtube.com/watch?v=E8WcWEkYpX0)
 
-![HandTracking](https://img.youtube.com/vi/E8WcWEkYpX0/0.jpg)
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/7a4ad26f-f89b-499d-b7db-1e2c336d80a8" />
 
 ## Motivation
 
@@ -37,7 +37,7 @@ By mapping a 3D mask to the user's face landmarks, we create a visual anchor. Wh
 
 ### 🔹 Off-axis Implementation
 
-![off-axis](https://img.youtube.com/vi/E8WcWEkYpX0/0.jpg)
+<img width="820" height="536" alt="Image" src="https://github.com/user-attachments/assets/47139d2e-aac2-4895-8ce0-13743cc7faec" />
 
 Instead of rotating the camera around a center point, we translate the camera relative to the "window" (the screen). As you move left, you see more of the right side of the 3D room, creating a convincing illusion of depth and physical presence.
 
