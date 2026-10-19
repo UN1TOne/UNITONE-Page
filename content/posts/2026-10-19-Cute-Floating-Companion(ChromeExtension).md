@@ -4,7 +4,7 @@ author: "UNIT"
 date: "2026-10-19"
 excerpt: "A transparent, click-through 3D character that swims across whatever tab you're viewing. Closed Shadow DOM overlay, a screen-space orthographic camera, proxy hit-testing for selective click-through, on-demand injection into the active tab only, and cross-tab state hand-over — shipped to the Chrome Web Store as a Manifest V3 extension."
 category: "3D / WebGL Tooling"
-thumbnail: "../../images/posts/2026-10-19-Chrome-Floating-Companion/preview.gif"
+thumbnail: "../../images/posts/2026-10-19-Cute-Floating-Companion/preview.gif"
 ---
 
 <!-- [🎞 Watch the video](https://www.youtube.com/watch?v=VIDEO_ID) -->
