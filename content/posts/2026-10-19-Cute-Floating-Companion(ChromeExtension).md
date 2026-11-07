@@ -15,7 +15,9 @@ Most 3D on the web lives inside a box: a canvas on a page you built. I wanted th
 
 Built with **Babylon.js 9** as a tree-shaken bundle, shipped as a **Manifest V3** extension.
 
-> 📦 **Now available** on the [Chrome Web Store](https://chromewebstore.google.com/detail/units-cfc-%E2%80%94-cute-floating/fcodbljmmbhhkofinngcephgjjfpfcfl?hl=ko).
+> 📦 **Status:** UNIT's CFC has been submitted to the Chrome Web Store and is currently under review. I'll add the install link here once it's live.
+
+<!-- > 📦 **Now available** on the [Chrome Web Store](STORE_URL). -->
 
 ### 🎥 Swimming over any page
 
